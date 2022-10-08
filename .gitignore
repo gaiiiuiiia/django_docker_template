@@ -1,0 +1,11 @@
+.env
+app/static
+app/media
+.idea
+logs
+venv
+env
+
+*.sqlite3
+
+geckodriver.log
